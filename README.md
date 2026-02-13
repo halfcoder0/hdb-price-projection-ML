@@ -65,6 +65,11 @@ You are right, but since we strip all time based features during our model train
 
 Hence, we believe keeping it consistent and apply it to all data be better for the model to train and predict with better accuracy.
 
+## How to use
+- data-preprocessing.ipynb - notebook for cleaning, transforming the data, and creating the model.
+- get_coords_of_amenities.py - Checks OpenStreetMap(OSM) to retrieve geographical data and output it into the Data folder
+- get_coords_of_flat.py - Takes the initial dataset from HDB and appends the geographical coordinates
+
 ## Project Scope
 
 - **Geography**: Singapore HDB estates
