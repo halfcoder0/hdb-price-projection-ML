@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3.12.3-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.14.0-blue?logo=python)
 ![Jupyter](https://img.shields.io/badge/Jupyter-blue?logo=jupyter)
 ![Version](https://img.shields.io/badge/version-0.1-green)
 
@@ -13,6 +13,11 @@
 ## 📖 About
 
 A ML model to forecast future HDB resale prices based on historical data.
+
+## 📋 Required dependencies
+
+- pandas
+- numpy
 
 ## 📋 Dataset
 
