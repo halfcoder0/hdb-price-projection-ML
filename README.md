@@ -14,6 +14,14 @@
 
 An ML model to forecast future HDB resale prices based on historical data, Resale Price Index (RPI) and geographical data.
 
+## How to use the model (TODO in Assignment part 2)
+Input the necessary features
+- Address
+- HDB Room Type
+- Year to predict the price
+
+And the model will give an output with additional information about the other factors which contributed to the price
+
 ## Why use Resale Prince Index (RPI) to adjust the resale price?
 
 In the original dataset, the resale price has inflation baked in, which when used for model training would act as an invisible feature which we cannot control.
