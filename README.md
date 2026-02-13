@@ -44,8 +44,6 @@ Doing so adjusts the resale price to values it would have been in 2009, this all
 
 We will use another model later on, which is trained on the RPI index to attempt to predict the RPI for the year. But generally it hovers around 1-4% flunctuation per quarter.
 
-Our propose solution will force the 
-
 ## Why are the additional features important
 Through asking a property agent in Singapore, we've learnt that nearby Amenities are a big contributing factor to the price of the HDB resale flat.
 These include but are not limited to:
