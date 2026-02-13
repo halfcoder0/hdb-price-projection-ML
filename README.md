@@ -10,16 +10,9 @@
 
 ---
 
-## Project Scope
-
-- **Geography**: Singapore HDB estates
-- **Property Type**: Resale flats only (2-room to Executive)
-- **Time Period**: 2017-2024 transactions
-- **Features**: Location, amenities, physical attributes, lease information
-
 ## About
 
-A ML model to forecast future HDB resale prices based on historical data, Resale Price Index (RPI) and geographical data.
+An ML model to forecast future HDB resale prices based on historical data, Resale Price Index (RPI) and geographical data.
 
 ## Why use Resale Prince Index (RPI) to adjust the resale price?
 
@@ -63,6 +56,14 @@ Typically the term used for "nearby" is "within walking distance". As this is a 
 You are right, but since we strip all time based features during our model training, if we were to fine tune, which year had what amenities nearby. It will confuse the model even more as it wonders why these two similar flats near each other have different number of amenities.
 
 Hence, we believe keeping it consistent and apply it to all data be better for the model to train and predict with better accuracy.
+
+## Project Scope
+
+- **Geography**: Singapore HDB estates
+- **Property Type**: Resale flats only (2-room to Executive)
+- **Time Period**: 2017-2025 transactions
+- **Features**: Location, amenities, physical attributes, lease information
+
 
 ## Required dependencies
 
