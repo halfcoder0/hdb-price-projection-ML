@@ -53,6 +53,7 @@ These include but are not limited to:
 - number of MRT Stations
 - number of Malls
 - number of Hawker Centres
+- number of Wet Markets
 - number of Schools (Certain Schools will affect the price greater)
 - Distance to nearest bus stop
 - Distance to nearest MRT station.
