@@ -49,12 +49,12 @@ Our propose solution will force the
 ## Why are the additional features important
 Through asking a property agent in Singapore, we've learnt that nearby Amenities are a big contributing factor to the price of the HDB resale flat.
 These include but are not limited to:
-- number of Bus Stops
-- number of MRT Stations
-- number of Malls
-- number of Hawker Centres
-- number of Wet Markets
-- number of Schools (Certain Schools will affect the price greater)
+- Number of Bus Stops
+- Number of MRT Stations
+- Number of Malls
+- Number of Hawker Centres
+- Number of Wet Markets
+- Number of Schools (Certain Schools will affect the price greater)
 - Distance to nearest bus stop
 - Distance to nearest MRT station.
 
