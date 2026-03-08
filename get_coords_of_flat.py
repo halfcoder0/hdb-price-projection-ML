@@ -15,7 +15,7 @@ import json
 import time
 
 # 1. Load the CSV, i use test.csv(a small version of the ResaleData to test)
-file_path = 'Data/ResaleflatpricesbasedonregistrationdatefromJan2017onwards.csv'
+file_path = 'Data/resale.csv'
 df = pd.read_csv(file_path)
 
 # 2. Extract unique addresses (Block + Street Name)
